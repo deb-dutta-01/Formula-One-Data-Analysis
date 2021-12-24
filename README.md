@@ -1,6 +1,6 @@
 # Formula-One-Data-Analysis
-This project is part of the Azure Databricks Spark Core for Data Engineers \n
-https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
+<p>This project is part of Udemy Course - Azure Databricks Spark Core for Data Engineers</p>
+<p>https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/</p>
 
-The whole code is converted to Scala Spark.
-Do check it out.
+<p>The whole code is converted to Scala Spark.</p>
+<p>Do check it out.</p>
